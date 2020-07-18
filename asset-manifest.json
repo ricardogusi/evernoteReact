@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evernoteReact/static/css/main.60d5545d.chunk.css",
+    "main.js": "/evernoteReact/static/js/main.691564d8.chunk.js",
+    "main.js.map": "/evernoteReact/static/js/main.691564d8.chunk.js.map",
+    "runtime-main.js": "/evernoteReact/static/js/runtime-main.c78a40d2.js",
+    "runtime-main.js.map": "/evernoteReact/static/js/runtime-main.c78a40d2.js.map",
+    "static/js/2.28caa4e8.chunk.js": "/evernoteReact/static/js/2.28caa4e8.chunk.js",
+    "static/js/2.28caa4e8.chunk.js.map": "/evernoteReact/static/js/2.28caa4e8.chunk.js.map",
+    "index.html": "/evernoteReact/index.html",
+    "precache-manifest.89bb20387405c61cb791f1704ab25bf1.js": "/evernoteReact/precache-manifest.89bb20387405c61cb791f1704ab25bf1.js",
+    "service-worker.js": "/evernoteReact/service-worker.js",
+    "static/css/main.60d5545d.chunk.css.map": "/evernoteReact/static/css/main.60d5545d.chunk.css.map",
+    "static/js/2.28caa4e8.chunk.js.LICENSE.txt": "/evernoteReact/static/js/2.28caa4e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c78a40d2.js",
+    "static/js/2.28caa4e8.chunk.js",
+    "static/css/main.60d5545d.chunk.css",
+    "static/js/main.691564d8.chunk.js"
+  ]
+}
